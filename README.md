@@ -1,4 +1,4 @@
 # Tanisha
 This is my first Git Repository
 <br>
-My name is Tanisha.
+My name is Tanisha Panesar.
